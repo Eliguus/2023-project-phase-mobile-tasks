@@ -47,6 +47,7 @@ class TaskManager {
       task.dueDate = dueDate??task.dueDate;
       print('Task updated.');
     }
+    
   }
 
   void markTaskAsCompleted(int index) {
