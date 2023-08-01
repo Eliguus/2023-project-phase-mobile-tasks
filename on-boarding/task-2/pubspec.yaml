@@ -1,0 +1,10 @@
+name: main
+description: task manager
+version: 1.0.0
+
+dependencies:
+  intl: ^0.17.0
+
+
+environment:
+  sdk: ^3.0.0
